@@ -1,0 +1,501 @@
+ShipmentID,Product_Category,Warehouse_Location,Stock_Level,Daily_Sales_Rate,Supplier_Lead_Time_Days,Holding_Cost_USD
+SHP3000,Electrnics,BTM Layout,416,5,5,23.83
+SHP3001,Electrnics,Whitefield,88,6,13,61.53
+SHP3002,Electrnics,JP Nagar,117,38,10,34.93
+SHP3003,Electrnics,Whitefield,336,22,4,92.92
+SHP3004,Electrnics,Whitefield,382,18,8,62.49
+SHP3005,Electrnics,BTM Layout,45,14,9,63.36
+SHP3006,Electrnics,Whitefield,109,10,13,41.94
+SHP3007,Electrnics,Whitefield,206,13,7,14.68
+SHP3008,Electrnics,Electronic City,454,31,14,12.86
+SHP3009,Electrnics,Electronic City,270,30,7,48.1
+SHP3010,Electronics,JP Nagar,214,3,5,17.61
+SHP3011,Apparel,Electronic City,567,30,4,64.62
+SHP3012,Apparel,Electronic City,122,6,14,89.29
+SHP3013,Gadgets,Electronic City,381,29,10,89.46
+SHP3014,Apparel,Electronic City,555,8,1,69.31
+SHP3015,Gadgets,BTM Layout,544,33,10,29.01
+SHP3016,Electronics,Electronic City,88,17,10,87.67
+SHP3017,Gadgets,BTM Layout,458,11,7,89.75
+SHP3018,Gadgets,BTM Layout,518,13,1,27.7
+SHP3019,Home Decor,Electronic City,391,11,1,76.37
+SHP3020,Apparel,Whitefield,354,31,5,35.79
+SHP3021,Electronics,BTM Layout,300,28,13,82.24
+SHP3022,Gadgets,Whitefield,262,6,9,99.75
+SHP3023,Electronics,Whitefield,85,16,6,12.7
+SHP3024,Home Decor,Electronic City,272,4,3,90.76
+SHP3025,Apparel,JP Nagar,423,35,13,66.04
+SHP3026,Gadgets,Electronic City,239,26,3,97.6
+SHP3027,Apparel,JP Nagar,315,12,7,51.85
+SHP3028,Home Decor,JP Nagar,361,11,6,86.26
+SHP3029,Home Decor,Electronic City,217,37,9,15.62
+SHP3030,Electronics,Electronic City,578,25,6,40.18
+SHP3031,Gadgets,JP Nagar,53,18,5,16.03
+SHP3032,Electronics,Electronic City,131,19,10,97.78
+SHP3033,Home Decor,JP Nagar,227,23,7,83.53
+SHP3034,Apparel,Whitefield,283,38,1,86.73
+SHP3035,Electronics,Electronic City,412,18,12,94.42
+SHP3036,Electronics,Whitefield,509,26,7,17.66
+SHP3037,Apparel,BTM Layout,298,6,3,44.7
+SHP3038,Electronics,Whitefield,281,4,14,16.39
+SHP3039,Apparel,Whitefield,442,29,9,28.97
+SHP3040,Gadgets,JP Nagar,111,34,6,30.64
+SHP3041,Apparel,Whitefield,424,17,9,52.22
+SHP3042,Gadgets,Electronic City,433,16,13,34.17
+SHP3043,Apparel,JP Nagar,379,2,5,19.09
+SHP3044,Home Decor,BTM Layout,77,34,7,25.07
+SHP3045,Home Decor,Electronic City,34,8,13,23.25
+SHP3046,Gadgets,BTM Layout,192,13,14,97.58
+SHP3047,Gadgets,Whitefield,368,8,4,78.34
+SHP3048,Home Decor,Electronic City,455,30,7,97.1
+SHP3049,Gadgets,Electronic City,199,32,13,49.58
+SHP3050,Apparel,BTM Layout,160,36,1,35.05
+SHP3051,Apparel,Electronic City,176,30,7,81.85
+SHP3052,Home Decor,Electronic City,45,1,8,39.36
+SHP3053,Electronics,Electronic City,67,39,5,36.94
+SHP3054,Apparel,Whitefield,27,17,2,30.93
+SHP3055,Gadgets,BTM Layout,364,20,5,21.67
+SHP3056,Electronics,Electronic City,79,24,6,33.08
+SHP3057,Electronics,JP Nagar,564,22,12,41.98
+SHP3058,Apparel,JP Nagar,122,29,2,70.66
+SHP3059,Apparel,JP Nagar,384,22,14,15.63
+SHP3060,Electronics,JP Nagar,294,9,6,28.95
+SHP3061,Electronics,Whitefield,444,37,6,82.81
+SHP3062,Home Decor,Electronic City,11,10,1,23.22
+SHP3063,Gadgets,BTM Layout,200,36,14,40.84
+SHP3064,Home Decor,Electronic City,425,37,1,87.82
+SHP3065,Apparel,Whitefield,572,28,14,23.94
+SHP3066,Home Decor,JP Nagar,197,28,11,17.45
+SHP3067,Home Decor,Whitefield,563,21,10,53.61
+SHP3068,Home Decor,Electronic City,152,24,3,37.22
+SHP3069,Home Decor,BTM Layout,206,2,14,60.71
+SHP3070,Gadgets,Whitefield,448,8,10,82.34
+SHP3071,Gadgets,BTM Layout,423,27,10,22.34
+SHP3072,Electronics,Whitefield,431,22,12,62.26
+SHP3073,Apparel,BTM Layout,483,37,3,55.5
+SHP3074,Home Decor,BTM Layout,479,27,4,22.97
+SHP3075,Electronics,JP Nagar,130,29,2,66.16
+SHP3076,Electronics,BTM Layout,399,3,9,34.63
+SHP3077,Electronics,JP Nagar,580,13,10,53.91
+SHP3078,Gadgets,Electronic City,329,10,12,17.4
+SHP3079,Home Decor,Electronic City,396,36,11,51.36
+SHP3080,Home Decor,JP Nagar,444,9,14,37.58
+SHP3081,Apparel,JP Nagar,208,27,7,84.01
+SHP3082,Home Decor,Whitefield,490,34,7,15.13
+SHP3083,Home Decor,Whitefield,35,1,6,47.67
+SHP3084,Electronics,Whitefield,392,32,3,51.26
+SHP3085,Apparel,Electronic City,438,25,6,75.25
+SHP3086,Home Decor,Whitefield,380,29,14,61.69
+SHP3087,Gadgets,BTM Layout,348,7,12,70.05
+SHP3088,Home Decor,BTM Layout,447,3,8,79.93
+SHP3089,Electronics,Whitefield,583,20,8,87.6
+SHP3090,Gadgets,BTM Layout,79,20,11,38.25
+SHP3091,Electronics,Electronic City,561,30,13,58.42
+SHP3092,Home Decor,BTM Layout,159,35,9,85.61
+SHP3093,Gadgets,Electronic City,434,35,1,99.05
+SHP3094,Apparel,JP Nagar,367,39,14,90.06
+SHP3095,Apparel,JP Nagar,452,27,1,43.43
+SHP3096,Gadgets,JP Nagar,238,26,3,27.56
+SHP3097,Gadgets,JP Nagar,567,14,3,54.05
+SHP3098,Electronics,BTM Layout,266,17,10,76.75
+SHP3099,Gadgets,Whitefield,129,18,8,54.33
+SHP3100,Electronics,BTM Layout,249,29,10,53.49
+SHP3101,Home Decor,Electronic City,546,20,1,85.44
+SHP3102,Electronics,BTM Layout,489,27,13,42.53
+SHP3103,Gadgets,BTM Layout,126,18,2,87.38
+SHP3104,Gadgets,Electronic City,129,4,2,46.61
+SHP3105,Home Decor,JP Nagar,553,1,3,39.54
+SHP3106,Gadgets,JP Nagar,174,1,13,50.86
+SHP3107,Gadgets,JP Nagar,128,26,6,78.62
+SHP3108,Apparel,Whitefield,39,20,1,21.34
+SHP3109,Apparel,Electronic City,91,23,2,27.68
+SHP3110,Home Decor,Electronic City,205,10,13,95.63
+SHP3111,Electronics,BTM Layout,373,11,13,25.79
+SHP3112,Apparel,Whitefield,81,5,1,61.1
+SHP3113,Electronics,JP Nagar,63,1,5,62.14
+SHP3114,Gadgets,Whitefield,435,17,13,54.07
+SHP3115,Apparel,Electronic City,504,22,13,68.03
+SHP3116,Home Decor,Electronic City,113,34,7,30.68
+SHP3117,Home Decor,BTM Layout,282,29,8,59.74
+SHP3118,Home Decor,BTM Layout,72,4,10,43.5
+SHP3119,Apparel,Electronic City,73,5,1,69.55
+SHP3120,Electronics,JP Nagar,169,11,7,22.71
+SHP3121,Gadgets,JP Nagar,493,21,13,61.38
+SHP3122,Electronics,Whitefield,309,35,5,26.67
+SHP3123,Electronics,Electronic City,369,12,10,35.08
+SHP3124,Gadgets,Electronic City,383,26,1,29.68
+SHP3125,Gadgets,JP Nagar,347,19,3,26.46
+SHP3126,Apparel,JP Nagar,558,7,7,84.31
+SHP3127,Apparel,Electronic City,358,7,10,35.71
+SHP3128,Apparel,BTM Layout,420,26,1,93.44
+SHP3129,Apparel,Electronic City,113,5,7,97.29
+SHP3130,Apparel,Electronic City,567,21,5,61.41
+SHP3131,Gadgets,JP Nagar,501,14,1,22.87
+SHP3132,Electronics,JP Nagar,345,4,1,43.71
+SHP3133,Apparel,BTM Layout,387,23,14,81.8
+SHP3134,Apparel,BTM Layout,537,20,1,43.07
+SHP3135,Electronics,Whitefield,304,15,11,17.83
+SHP3136,Apparel,Electronic City,143,29,9,60.11
+SHP3137,Electronics,JP Nagar,363,8,11,86.06
+SHP3138,Electronics,BTM Layout,503,19,13,81.63
+SHP3139,Gadgets,Whitefield,389,39,3,25.76
+SHP3140,Home Decor,Whitefield,284,28,13,70.55
+SHP3141,Gadgets,JP Nagar,487,27,5,29.85
+SHP3142,Home Decor,JP Nagar,115,4,11,29.64
+SHP3143,Home Decor,Whitefield,143,15,10,88.67
+SHP3144,Home Decor,BTM Layout,439,35,12,32.47
+SHP3145,Apparel,Whitefield,513,37,9,33.69
+SHP3146,Gadgets,Electronic City,277,1,6,10.06
+SHP3147,Home Decor,Electronic City,103,3,12,88.36
+SHP3148,Electronics,JP Nagar,108,24,9,81.33
+SHP3149,Apparel,BTM Layout,218,27,8,66.46
+SHP3150,Gadgets,BTM Layout,169,36,8,77.52
+SHP3151,Home Decor,Electronic City,524,34,1,23.68
+SHP3152,Electronics,Whitefield,288,29,13,51.25
+SHP3153,Gadgets,JP Nagar,521,24,9,41.61
+SHP3154,Gadgets,Whitefield,168,24,6,18.44
+SHP3155,Apparel,Whitefield,68,4,9,53.75
+SHP3156,Gadgets,Whitefield,95,3,3,92.87
+SHP3157,Apparel,BTM Layout,121,34,12,13.61
+SHP3158,Home Decor,Electronic City,271,23,3,36.23
+SHP3159,Apparel,BTM Layout,563,23,6,28.68
+SHP3160,Electronics,Electronic City,144,5,9,31.43
+SHP3161,Apparel,JP Nagar,250,31,7,91.76
+SHP3162,Electronics,JP Nagar,399,6,14,52.13
+SHP3163,Apparel,Whitefield,491,37,13,51.97
+SHP3164,Gadgets,Electronic City,480,10,3,78.45
+SHP3165,Home Decor,Electronic City,521,7,3,23.9
+SHP3166,Electronics,Electronic City,188,39,2,53.85
+SHP3167,Apparel,Whitefield,24,38,9,48.7
+SHP3168,Apparel,Whitefield,562,21,13,63.72
+SHP3169,Apparel,JP Nagar,528,20,3,99.96
+SHP3170,Gadgets,BTM Layout,586,3,11,79.25
+SHP3171,Gadgets,Electronic City,533,22,5,45.81
+SHP3172,Electronics,Electronic City,151,4,14,84.48
+SHP3173,Electronics,BTM Layout,308,28,14,25.36
+SHP3174,Gadgets,Electronic City,586,12,9,12.74
+SHP3175,Electronics,Whitefield,232,38,8,28.4
+SHP3176,Home Decor,Whitefield,106,36,2,40.64
+SHP3177,Home Decor,Electronic City,591,5,3,55.95
+SHP3178,Gadgets,Whitefield,421,13,2,65.36
+SHP3179,Electronics,Whitefield,220,23,8,91.95
+SHP3180,Apparel,Electronic City,411,30,6,55.89
+SHP3181,Home Decor,JP Nagar,403,37,6,55.11
+SHP3182,Gadgets,BTM Layout,503,25,12,14.52
+SHP3183,Electronics,Whitefield,469,27,9,13.14
+SHP3184,Gadgets,JP Nagar,86,14,8,59.6
+SHP3185,Apparel,Whitefield,369,36,4,49.44
+SHP3186,Home Decor,Whitefield,167,39,12,85.53
+SHP3187,Gadgets,BTM Layout,52,16,4,24.46
+SHP3188,Gadgets,Whitefield,515,22,9,12.25
+SHP3189,Gadgets,BTM Layout,333,21,1,50.41
+SHP3190,Apparel,BTM Layout,120,21,13,31.37
+SHP3191,Gadgets,BTM Layout,341,8,2,14.47
+SHP3192,Apparel,JP Nagar,151,16,2,75.21
+SHP3193,Apparel,Electronic City,579,31,13,20.04
+SHP3194,Apparel,JP Nagar,327,10,13,64.75
+SHP3195,Home Decor,Electronic City,447,32,6,35.29
+SHP3196,Home Decor,Electronic City,17,34,4,25.61
+SHP3197,Gadgets,BTM Layout,498,9,13,44.18
+SHP3198,Gadgets,Whitefield,291,17,11,82.13
+SHP3199,Home Decor,BTM Layout,118,11,10,45.29
+SHP3200,Electronics,Whitefield,484,32,13,77.57
+SHP3201,Home Decor,Electronic City,26,10,3,21.29
+SHP3202,Apparel,BTM Layout,353,22,3,79.55
+SHP3203,Home Decor,Whitefield,570,17,3,31.32
+SHP3204,Apparel,JP Nagar,324,4,6,70.97
+SHP3205,Gadgets,Whitefield,130,25,14,60.92
+SHP3206,Electronics,BTM Layout,281,21,8,93.62
+SHP3207,Gadgets,JP Nagar,208,37,11,44.86
+SHP3208,Apparel,Whitefield,198,38,7,15.95
+SHP3209,Apparel,Whitefield,551,1,14,11.72
+SHP3210,Apparel,Whitefield,290,25,4,84.42
+SHP3211,Electronics,Whitefield,61,36,11,57.23
+SHP3212,Home Decor,Whitefield,307,17,12,79.77
+SHP3213,Gadgets,JP Nagar,167,24,4,31.1
+SHP3214,Gadgets,Electronic City,23,2,11,41.06
+SHP3215,Home Decor,JP Nagar,374,15,10,12.71
+SHP3216,Gadgets,JP Nagar,268,32,11,96.53
+SHP3217,Electronics,JP Nagar,117,39,11,70.11
+SHP3218,Gadgets,Electronic City,492,6,14,93.99
+SHP3219,Apparel,BTM Layout,331,1,11,33.89
+SHP3220,Home Decor,Electronic City,546,23,2,65.03
+SHP3221,Electronics,JP Nagar,583,39,14,71.06
+SHP3222,Home Decor,Whitefield,69,17,1,38.58
+SHP3223,Electronics,Whitefield,296,34,9,86.33
+SHP3224,Apparel,JP Nagar,29,29,12,95.24
+SHP3225,Home Decor,Whitefield,553,9,12,89.64
+SHP3226,Gadgets,JP Nagar,5,13,2,76.52
+SHP3227,Electronics,Whitefield,553,6,13,34.97
+SHP3228,Home Decor,Electronic City,145,6,8,35.35
+SHP3229,Gadgets,BTM Layout,192,20,9,96.7
+SHP3230,Home Decor,BTM Layout,132,3,4,10.93
+SHP3231,Home Decor,Electronic City,205,17,8,74.44
+SHP3232,Home Decor,Electronic City,131,12,9,73.56
+SHP3233,Electronics,JP Nagar,261,1,10,66.04
+SHP3234,Gadgets,JP Nagar,551,17,10,99.11
+SHP3235,Apparel,JP Nagar,198,3,5,38.07
+SHP3236,Electronics,Whitefield,108,26,13,40.6
+SHP3237,Electronics,JP Nagar,539,15,14,17.1
+SHP3238,Electronics,Electronic City,269,36,7,49.85
+SHP3239,Apparel,BTM Layout,388,32,10,33.49
+SHP3240,Gadgets,Whitefield,264,32,4,40.9
+SHP3241,Gadgets,JP Nagar,418,4,1,85.11
+SHP3242,Gadgets,Whitefield,362,18,3,94.19
+SHP3243,Home Decor,Whitefield,79,19,5,26.72
+SHP3244,Home Decor,JP Nagar,359,35,3,43.53
+SHP3245,Home Decor,Whitefield,588,14,12,93.58
+SHP3246,Apparel,BTM Layout,192,33,13,15.56
+SHP3247,Home Decor,Electronic City,294,14,11,18.31
+SHP3248,Apparel,Electronic City,49,34,7,24.65
+SHP3249,Gadgets,BTM Layout,577,4,12,63.57
+SHP3250,Home Decor,Whitefield,87,24,9,23.54
+SHP3251,Home Decor,JP Nagar,127,29,12,97.13
+SHP3252,Electronics,Whitefield,362,19,6,50.2
+SHP3253,Apparel,BTM Layout,532,6,13,55.14
+SHP3254,Gadgets,Whitefield,70,33,10,32.2
+SHP3255,Electronics,Electronic City,379,19,1,52.39
+SHP3256,Electronics,Whitefield,166,1,7,69.57
+SHP3257,Gadgets,BTM Layout,384,5,3,77.61
+SHP3258,Electronics,Electronic City,362,27,5,77.85
+SHP3259,Apparel,Whitefield,192,16,10,62.01
+SHP3260,Apparel,Whitefield,326,6,4,91.39
+SHP3261,Home Decor,Electronic City,454,13,10,83.57
+SHP3262,Electronics,JP Nagar,478,35,5,78.13
+SHP3263,Home Decor,Electronic City,17,19,5,15.0
+SHP3264,Electronics,JP Nagar,188,12,6,10.62
+SHP3265,Apparel,BTM Layout,115,16,14,29.12
+SHP3266,Apparel,BTM Layout,512,10,10,69.72
+SHP3267,Apparel,Electronic City,294,25,12,47.01
+SHP3268,Electronics,Electronic City,299,20,10,46.22
+SHP3269,Apparel,BTM Layout,455,31,13,89.61
+SHP3270,Electronics,JP Nagar,219,4,13,90.6
+SHP3271,Home Decor,BTM Layout,571,23,11,91.83
+SHP3272,Electronics,Electronic City,31,2,6,38.25
+SHP3273,Home Decor,BTM Layout,235,22,8,72.2
+SHP3274,Electronics,Electronic City,569,37,8,34.45
+SHP3275,Home Decor,Electronic City,325,8,11,27.15
+SHP3276,Apparel,BTM Layout,237,7,9,26.62
+SHP3277,Home Decor,JP Nagar,441,14,8,40.79
+SHP3278,Apparel,Whitefield,537,3,13,48.7
+SHP3279,Apparel,BTM Layout,407,16,11,84.79
+SHP3280,Home Decor,Whitefield,57,19,2,20.79
+SHP3281,Electronics,BTM Layout,317,18,14,76.14
+SHP3282,Electronics,Whitefield,285,16,14,57.83
+SHP3283,Gadgets,JP Nagar,35,8,12,35.92
+SHP3284,Electronics,JP Nagar,341,33,10,54.35
+SHP3285,Gadgets,BTM Layout,187,12,12,36.99
+SHP3286,Electronics,Electronic City,27,11,11,63.65
+SHP3287,Electronics,Whitefield,548,5,1,49.05
+SHP3288,Apparel,Electronic City,450,27,10,24.8
+SHP3289,Gadgets,Electronic City,78,12,2,20.49
+SHP3290,Electronics,Electronic City,14,17,2,59.2
+SHP3291,Gadgets,JP Nagar,488,6,12,91.22
+SHP3292,Apparel,BTM Layout,460,33,3,40.96
+SHP3293,Apparel,BTM Layout,570,5,10,75.97
+SHP3294,Gadgets,JP Nagar,568,28,7,69.28
+SHP3295,Apparel,JP Nagar,164,14,2,93.84
+SHP3296,Home Decor,BTM Layout,18,5,14,83.89
+SHP3297,Home Decor,Electronic City,182,33,1,60.99
+SHP3298,Apparel,Whitefield,416,19,14,69.13
+SHP3299,Home Decor,Whitefield,57,22,6,90.85
+SHP3300,Electronics,Whitefield,412,5,9,45.96
+SHP3301,Gadgets,Electronic City,26,2,3,39.41
+SHP3302,Electronics,BTM Layout,34,30,6,10.97
+SHP3303,Gadgets,JP Nagar,264,39,3,84.39
+SHP3304,Apparel,BTM Layout,209,4,14,82.09
+SHP3305,Electronics,Electronic City,63,33,13,19.4
+SHP3306,Apparel,JP Nagar,475,13,1,61.92
+SHP3307,Apparel,Electronic City,470,20,14,51.76
+SHP3308,Gadgets,Whitefield,16,7,13,20.68
+SHP3309,Gadgets,Whitefield,294,15,12,98.25
+SHP3310,Gadgets,Electronic City,358,23,5,29.32
+SHP3311,Electronics,JP Nagar,79,14,10,16.05
+SHP3312,Home Decor,JP Nagar,565,23,14,63.54
+SHP3313,Gadgets,BTM Layout,595,19,13,76.5
+SHP3314,Gadgets,Whitefield,445,29,11,12.92
+SHP3315,Electronics,BTM Layout,245,20,4,69.28
+SHP3316,Gadgets,BTM Layout,158,29,7,57.91
+SHP3317,Electronics,Electronic City,100,24,6,19.29
+SHP3318,Apparel,Electronic City,298,18,10,25.53
+SHP3319,Gadgets,BTM Layout,213,10,7,61.12
+SHP3320,Gadgets,Whitefield,347,8,5,36.67
+SHP3321,Apparel,Electronic City,92,26,4,94.45
+SHP3322,Apparel,BTM Layout,394,29,7,83.69
+SHP3323,Apparel,BTM Layout,329,10,7,98.52
+SHP3324,Gadgets,BTM Layout,161,17,6,33.37
+SHP3325,Home Decor,BTM Layout,581,2,8,97.28
+SHP3326,Home Decor,BTM Layout,141,6,4,48.81
+SHP3327,Home Decor,BTM Layout,432,5,10,41.28
+SHP3328,Gadgets,Electronic City,456,28,5,14.53
+SHP3329,Apparel,Whitefield,145,5,4,14.75
+SHP3330,Gadgets,BTM Layout,87,18,12,72.28
+SHP3331,Apparel,JP Nagar,181,26,1,51.21
+SHP3332,Gadgets,Electronic City,202,20,12,30.39
+SHP3333,Gadgets,Electronic City,572,27,8,65.26
+SHP3334,Apparel,BTM Layout,425,12,1,32.76
+SHP3335,Home Decor,Electronic City,405,7,5,61.99
+SHP3336,Apparel,BTM Layout,475,3,6,42.33
+SHP3337,Electronics,Whitefield,222,10,6,84.12
+SHP3338,Electronics,Whitefield,179,34,13,83.86
+SHP3339,Apparel,Electronic City,27,25,5,52.96
+SHP3340,Gadgets,Electronic City,239,35,3,41.57
+SHP3341,Electronics,JP Nagar,17,16,5,42.63
+SHP3342,Electronics,Electronic City,105,2,12,82.51
+SHP3343,Gadgets,JP Nagar,540,24,8,39.54
+SHP3344,Gadgets,Whitefield,527,10,14,28.82
+SHP3345,Home Decor,Whitefield,456,38,2,17.62
+SHP3346,Gadgets,BTM Layout,435,22,6,52.0
+SHP3347,Apparel,Whitefield,537,26,9,53.39
+SHP3348,Apparel,JP Nagar,297,39,8,85.68
+SHP3349,Home Decor,Electronic City,105,27,14,29.91
+SHP3350,Electronics,BTM Layout,506,29,11,44.29
+SHP3351,Electronics,JP Nagar,308,38,8,82.76
+SHP3352,Gadgets,Electronic City,544,20,8,84.13
+SHP3353,Apparel,BTM Layout,557,27,13,44.61
+SHP3354,Electronics,Whitefield,359,20,7,51.32
+SHP3355,Home Decor,JP Nagar,307,19,8,37.3
+SHP3356,Home Decor,Electronic City,500,20,13,93.93
+SHP3357,Apparel,BTM Layout,231,35,6,20.68
+SHP3358,Home Decor,BTM Layout,240,2,2,94.04
+SHP3359,Home Decor,Whitefield,459,30,2,71.55
+SHP3360,Apparel,Electronic City,17,34,8,57.84
+SHP3361,Gadgets,Whitefield,214,22,11,12.94
+SHP3362,Gadgets,Whitefield,401,3,1,52.8
+SHP3363,Home Decor,Electronic City,104,6,6,46.7
+SHP3364,Gadgets,Electronic City,35,15,13,24.51
+SHP3365,Gadgets,Electronic City,532,27,6,69.08
+SHP3366,Home Decor,JP Nagar,333,10,11,97.4
+SHP3367,Gadgets,Electronic City,170,9,4,60.6
+SHP3368,Home Decor,BTM Layout,463,33,12,74.33
+SHP3369,Electronics,Whitefield,104,32,11,16.16
+SHP3370,Apparel,JP Nagar,177,6,13,47.59
+SHP3371,Apparel,Electronic City,166,36,11,20.47
+SHP3372,Gadgets,JP Nagar,267,2,13,65.15
+SHP3373,Gadgets,Electronic City,278,29,10,94.46
+SHP3374,Gadgets,JP Nagar,7,4,3,69.56
+SHP3375,Apparel,Whitefield,32,1,13,16.91
+SHP3376,Electronics,Whitefield,330,19,11,41.92
+SHP3377,Electronics,BTM Layout,153,26,3,59.56
+SHP3378,Apparel,BTM Layout,544,25,13,46.29
+SHP3379,Electronics,Electronic City,492,10,13,85.03
+SHP3380,Apparel,Whitefield,442,15,1,83.32
+SHP3381,Electronics,JP Nagar,69,22,3,65.06
+SHP3382,Home Decor,JP Nagar,360,21,4,43.61
+SHP3383,Home Decor,JP Nagar,537,22,11,32.98
+SHP3384,Apparel,BTM Layout,256,36,11,19.53
+SHP3385,Electronics,JP Nagar,239,34,5,41.94
+SHP3386,Gadgets,BTM Layout,231,30,3,47.19
+SHP3387,Electronics,BTM Layout,529,25,6,70.82
+SHP3388,Home Decor,Electronic City,317,28,11,69.23
+SHP3389,Home Decor,JP Nagar,53,1,14,16.31
+SHP3390,Electronics,JP Nagar,122,4,12,45.57
+SHP3391,Electronics,Whitefield,58,7,5,26.36
+SHP3392,Gadgets,Electronic City,569,9,3,24.11
+SHP3393,Gadgets,Whitefield,48,36,6,84.46
+SHP3394,Electronics,Electronic City,57,19,6,13.77
+SHP3395,Electronics,JP Nagar,590,1,14,47.73
+SHP3396,Electronics,BTM Layout,562,10,8,25.14
+SHP3397,Electronics,BTM Layout,529,36,2,89.14
+SHP3398,Apparel,BTM Layout,106,9,1,60.13
+SHP3399,Electronics,BTM Layout,402,32,4,30.82
+SHP3400,Gadgets,BTM Layout,142,32,7,55.22
+SHP3401,Home Decor,Whitefield,391,6,11,75.83
+SHP3402,Apparel,Electronic City,115,38,10,96.23
+SHP3403,Electronics,JP Nagar,21,17,3,29.84
+SHP3404,Home Decor,Whitefield,186,10,3,89.76
+SHP3405,Apparel,Electronic City,540,27,5,94.09
+SHP3406,Home Decor,BTM Layout,545,35,5,92.48
+SHP3407,Electronics,Electronic City,175,21,13,67.19
+SHP3408,Electronics,Electronic City,413,25,10,66.68
+SHP3409,Gadgets,BTM Layout,382,28,3,46.29
+SHP3410,Electronics,BTM Layout,192,15,9,77.72
+SHP3411,Electronics,BTM Layout,234,4,4,57.82
+SHP3412,Apparel,JP Nagar,123,29,13,70.97
+SHP3413,Gadgets,BTM Layout,160,9,13,48.56
+SHP3414,Apparel,JP Nagar,469,27,3,75.83
+SHP3415,Home Decor,BTM Layout,108,26,11,84.2
+SHP3416,Electronics,JP Nagar,506,19,2,23.18
+SHP3417,Home Decor,Electronic City,179,28,10,84.96
+SHP3418,Apparel,Whitefield,425,17,13,58.63
+SHP3419,Electronics,Electronic City,138,20,11,86.02
+SHP3420,Electronics,Electronic City,395,39,9,48.82
+SHP3421,Apparel,BTM Layout,505,23,4,44.11
+SHP3422,Apparel,JP Nagar,37,32,3,92.36
+SHP3423,Apparel,Whitefield,59,33,7,32.61
+SHP3424,Apparel,BTM Layout,523,5,8,85.98
+SHP3425,Apparel,BTM Layout,16,34,11,53.56
+SHP3426,Electronics,BTM Layout,532,11,14,56.27
+SHP3427,Apparel,Electronic City,559,3,2,37.76
+SHP3428,Electronics,JP Nagar,377,33,7,61.57
+SHP3429,Electronics,JP Nagar,488,11,12,39.27
+SHP3430,Apparel,Whitefield,232,16,5,13.53
+SHP3431,Apparel,JP Nagar,311,18,11,34.48
+SHP3432,Gadgets,JP Nagar,461,30,5,10.57
+SHP3433,Electronics,BTM Layout,164,10,3,98.05
+SHP3434,Apparel,BTM Layout,335,18,5,96.92
+SHP3435,Apparel,Electronic City,229,38,12,45.56
+SHP3436,Apparel,BTM Layout,508,19,2,75.55
+SHP3437,Gadgets,BTM Layout,460,36,4,41.12
+SHP3438,Gadgets,BTM Layout,49,13,6,70.4
+SHP3439,Home Decor,BTM Layout,218,3,1,82.49
+SHP3440,Electronics,Electronic City,63,10,10,95.21
+SHP3441,Home Decor,BTM Layout,199,38,4,46.02
+SHP3442,Apparel,Whitefield,493,1,6,80.5
+SHP3443,Gadgets,Whitefield,161,27,9,33.93
+SHP3444,Gadgets,Whitefield,230,8,14,99.13
+SHP3445,Home Decor,Whitefield,416,17,11,12.32
+SHP3446,Gadgets,BTM Layout,209,9,11,64.32
+SHP3447,Apparel,Whitefield,83,6,13,69.36
+SHP3448,Gadgets,BTM Layout,128,25,2,71.92
+SHP3449,Home Decor,Electronic City,475,39,11,20.83
+SHP3450,Apparel,Whitefield,222,28,7,94.47
+SHP3451,Home Decor,JP Nagar,520,33,6,26.31
+SHP3452,Gadgets,Whitefield,108,37,2,66.05
+SHP3453,Home Decor,Whitefield,397,9,8,30.04
+SHP3454,Home Decor,BTM Layout,438,18,7,37.65
+SHP3455,Electronics,Whitefield,335,21,11,59.18
+SHP3456,Gadgets,JP Nagar,147,2,5,47.55
+SHP3457,Gadgets,BTM Layout,544,38,12,24.42
+SHP3458,Home Decor,BTM Layout,282,36,5,25.38
+SHP3459,Electronics,Electronic City,237,37,7,47.63
+SHP3460,Gadgets,Electronic City,533,15,9,78.16
+SHP3461,Apparel,Whitefield,575,28,11,90.82
+SHP3462,Home Decor,Electronic City,94,18,9,17.57
+SHP3463,Gadgets,Electronic City,496,34,9,45.38
+SHP3464,Apparel,Electronic City,203,22,6,19.02
+SHP3465,Gadgets,BTM Layout,366,11,10,11.49
+SHP3466,Apparel,BTM Layout,445,13,6,69.55
+SHP3467,Home Decor,BTM Layout,30,4,3,64.22
+SHP3468,Gadgets,Electronic City,29,22,1,24.67
+SHP3469,Gadgets,BTM Layout,398,7,7,31.04
+SHP3470,Electronics,Electronic City,511,24,4,12.13
+SHP3471,Home Decor,BTM Layout,305,4,1,85.15
+SHP3472,Apparel,BTM Layout,343,28,8,97.72
+SHP3473,Gadgets,JP Nagar,271,15,12,22.19
+SHP3474,Gadgets,Whitefield,465,1,6,30.83
+SHP3475,Apparel,Electronic City,460,3,6,88.16
+SHP3476,Home Decor,JP Nagar,364,14,2,93.38
+SHP3477,Electronics,BTM Layout,72,38,1,47.77
+SHP3478,Electronics,Electronic City,416,1,13,14.56
+SHP3479,Gadgets,BTM Layout,495,38,14,13.55
+SHP3480,Apparel,Whitefield,53,38,14,61.66
+SHP3481,Gadgets,JP Nagar,568,21,2,45.36
+SHP3482,Apparel,Whitefield,106,29,4,12.58
+SHP3483,Electronics,JP Nagar,220,5,2,62.49
+SHP3484,Home Decor,BTM Layout,442,10,1,11.02
+SHP3485,Apparel,Whitefield,573,28,7,80.86
+SHP3486,Electronics,Whitefield,563,21,11,37.58
+SHP3487,Gadgets,BTM Layout,163,7,11,13.62
+SHP3488,Apparel,Whitefield,493,3,12,62.95
+SHP3489,Home Decor,Electronic City,246,20,8,45.79
+SHP3490,Gadgets,JP Nagar,9,19,6,97.64
+SHP3491,Gadgets,JP Nagar,365,35,4,58.98
+SHP3492,Electronics,JP Nagar,463,4,14,34.77
+SHP3493,Apparel,Electronic City,252,5,6,73.85
+SHP3494,Gadgets,JP Nagar,570,1,3,34.43
+SHP3495,Home Decor,BTM Layout,426,4,12,91.38
+SHP3496,Apparel,Whitefield,19,12,8,43.72
+SHP3497,Home Decor,Electronic City,577,27,10,59.49
+SHP3498,Gadgets,JP Nagar,126,23,14,14.55
+SHP3499,Home Decor,BTM Layout,281,25,13,48.35
